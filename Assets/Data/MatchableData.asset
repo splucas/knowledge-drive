@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ec1e0dabb36d03489a8cfe02a71f0af, type: 3}
+  m_Name: MatchableData
+  m_EditorClassIdentifier: 
+  MatchItems:
+  - Topic: Topic A
+    Attributes:
+    - Topic A Text 1
+    - Topic A Text 2
+    - Topic A Text 3
+    - Topic A Text 4
+    - Topic A Text 5
+    - Topic A Text 6
+    - Topic A Text 7
+  - Topic: Topic B
+    Attributes:
+    - Topic B Text 1
+    - Topic B Text 2
+    - Topic B Text 3
+    - Topic B Text 4
+    - Topic B Text 5
+    - Topic B Text 6
+    - Topic B Text 7
+    - Topic B Text 8
+  - Topic: Topic C
+    Attributes:
+    - Topic C Text 1
+    - Topic C Text 2
+    - Topic C Text 3
+    - Topic C Text 4
+    - Topic C Text 5
+    - Topic C Text 5
