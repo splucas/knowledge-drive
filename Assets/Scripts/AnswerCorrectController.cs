@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class AnswerCorrectController : MonoBehaviour, IResetable
@@ -32,9 +31,8 @@ public class AnswerCorrectController : MonoBehaviour, IResetable
             for (int i = 0; i < count; i++)
             {
                 Vector3 v1 = (particles[i].position);
-                Vector3 v2 = particleTarget;
 
-                particles[i].position = Vector3.MoveTowards(v1, v2, Time.deltaTime * 20.0f);
+                particles[i].position = Vector3.MoveTowards(v1, particleTarget, Time.deltaTime * 20.0f);
                 
             }
 
