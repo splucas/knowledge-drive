@@ -1,5 +1,5 @@
 # Knowledge Drive
-Simple edutainment POC buily with Unity where players drive down the streets of 
+Simple edutainment POC built in Unity where players drive down the streets of 
 knowledge and match topics to related topic texts.  After 5 correct answers or
 3 incorrect answers, it's game over!
 
